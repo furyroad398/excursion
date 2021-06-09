@@ -1,7 +1,45 @@
+body {
+    background-color: black;
+}
 h1{
 font-family: Verdana;
 font-weight: normal;
 font-size: 50px;
 color: white;
 text-align: center;
+}
+
+.download_link {
+text-align: center;
+}
+
+.download_link a {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+    }
+
+.vid{
+    text-align: center;
+}
+
+.travel_guide {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: grey;
+}
+
+.tent {
+    text-align: center;
+}
+
+.phone-img {
+    text-align: center;
+}
+
+.footer {
+    text-align: right;
+    color: gray;
 }
